@@ -1,1 +1,2 @@
-## Automated Optical Machine (AOI) Analysis
+# aoi-analysis
+Data Science course assignment
